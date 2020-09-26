@@ -105,3 +105,6 @@ dist
 
 
 # 以降、このプロジェクト内でのgitignore
+googlehome.txt
+
+talktext.txt
