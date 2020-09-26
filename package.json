@@ -1,0 +1,11 @@
+{
+  "name": "googlehome-webhook-notify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kazuki19992/googlehome-webhook-notify.git",
+  "author": "kazuki19992 <kushida98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-home-notifier": "^1.2.0"
+  }
+}
