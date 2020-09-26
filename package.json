@@ -1,11 +1,23 @@
 {
   "name": "googlehome-webhook-notify",
   "version": "1.0.0",
+  "description": "IFTTTでwebhookを飛ばすとgooglehomeが喋ったりするやつです",
   "main": "index.js",
-  "repository": "https://github.com/kazuki19992/googlehome-webhook-notify.git",
-  "author": "kazuki19992 <kushida98@gmail.com>",
-  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuki19992/googlehome-webhook-notify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuki19992/googlehome-webhook-notify/issues"
+  },
+  "homepage": "https://github.com/kazuki19992/googlehome-webhook-notify#readme",
   "dependencies": {
-    "google-home-notifier": "^1.2.0"
+    "google-home-notifier": "^1.2.0",
+    "google-tts-api": "0.0.4"
   }
 }
